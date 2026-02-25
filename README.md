@@ -150,6 +150,20 @@ http://localhost:8080
 
 - Database Schema Design
 
+## Output Screenshot:
+
+  Home page:
+<img width="494" height="315" alt="image" src="https://github.com/user-attachments/assets/37e7feac-2f81-451a-a574-681ad73b571c" />
+
+   Get by date:
+<img width="525" height="468" alt="image" src="https://github.com/user-attachments/assets/4efafc5e-29ca-42b1-ba90-7271fc19f755" />
+
+   Get by month:
+<img width="524" height="844" alt="image" src="https://github.com/user-attachments/assets/7ee7b3b5-1e8e-4de7-80e0-9ab5bcdab33a" />
+
+  get statistics:
+<img width="519" height="505" alt="image" src="https://github.com/user-attachments/assets/c6db2bfe-110f-43ab-8893-1fba6ac56ef9" />
+
 ## Author:
 
 Vishvadharshini
